@@ -68,8 +68,7 @@ Prompt engineering involves crafting precise inputs to guide AI models' response
 
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
 
-Vague Prompt: "Describe a cat."
-Improved Prompt: "Tell me what a cat looks like, including its fur color, size, and shape."
+Vague Prompt would be "Describe a cat." Improved Prompt would be "Tell me what a cat looks like, including its fur color, size, and shape."
 
 The improved prompt is more detailed, asking for specific aspects (fur color, size, shape), making it easier to get a thorough description.
 
